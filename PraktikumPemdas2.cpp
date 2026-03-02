@@ -4,9 +4,12 @@ using namespace std;
 
 //deklarasi variabel global
 int  r;
-float phi = 3.14159;
 
 //implementaasi fungsi dan prosedur
 void input(){
-    
+    cout << "masukkan r :";
+    cin >> r;
+}
+float luaslingkaran(int b){
+    return phi*b*b;
 }
