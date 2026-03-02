@@ -3,3 +3,4 @@
 using namespace std;
 
 //deklarasi variabel global
+int  r;
