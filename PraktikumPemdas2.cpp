@@ -17,4 +17,9 @@ float luaslingkaran(int b){
 void output (){
     cout <<"Hasilnya : " << luaslingkaran (phi,r) << endl;
 }
+
 //program utama
+int main(){
+input();
+output();
+}
